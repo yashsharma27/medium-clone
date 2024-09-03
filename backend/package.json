@@ -8,6 +8,7 @@
     "@prisma/client": "^5.19.0",
     "@prisma/extension-accelerate": "^1.1.0",
     "@yashsharma27/medium-common": "^1.0.4",
+    "cors": "^2.8.5",
     "hono": "^4.5.10",
     "prisma": "^5.19.0"
   },
