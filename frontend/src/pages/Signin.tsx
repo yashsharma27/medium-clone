@@ -1,5 +1,5 @@
 import { Auth } from "../components/Auth"
-import { Quote } from "../components/quote"
+// import { Quote } from "../components/quote"
 
 export const Signin = () => {
     return <div>
@@ -8,7 +8,7 @@ export const Signin = () => {
                 <Auth type="signin" />
             </div>
             <div className="hidden lg:block">
-                <Quote />
+                {/* <Quote /> */}
             </div>
         </div>
     </div>
